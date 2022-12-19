@@ -53,7 +53,3 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 
 After the application starts, navigate to `http://localhost:8000` in your web browser:
 
-Stop and remove the containers
-```
-$ docker compose down
-#Estamos usando este repo como prueba```
